@@ -48,3 +48,5 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+
+<img src="https://raw.githubusercontent.com/ArtxDS/snake-game/output/snake.svg" alt="Snake animation" />
